@@ -1,0 +1,21 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="Dico Bourse">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10284</md:content-id>
+    <md:title>Finance</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License 2.0</md:license>
+    <md:language>fr</md:language>
+    <md:uuid>66779d01-cbf8-4fce-b658-04b4b52528f4</md:uuid>
+<md:slug>finance</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Stocks</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Money managment</md:title>
+          <col:content>                  </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
